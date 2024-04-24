@@ -16,5 +16,23 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
+
+        private void kryptonButton1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            Form5 form5 = new Form5();
+
+            form5.Show();
+        }
+
+        private void kryptonButton2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            Form7 form7 = new Form7();
+
+            form7.Show();
+        }
     }
 }

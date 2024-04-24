@@ -27,5 +27,36 @@ namespace WindowsFormsApp2
         {
 
         }
+
+        private void kryptonButton1_Click(object sender, EventArgs e)
+        {
+            string ID = Logintext.Text;
+
+            if (ID == "267" || ID == "133" || ID == "493" || ID == "107" || ID == "222")
+            {
+
+
+               this.Hide();
+
+                Form4 form4 = new Form4();
+               
+                form4.Show();
+
+                
+            }
+            else
+            {
+                MessageBox.Show("ID isn't true");
+            }
+        }
+
+        private void kryptonButton2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            Form2 form2 = new Form2();
+
+            form2.Show();
+        }
     }
 }

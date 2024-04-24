@@ -15,6 +15,31 @@ namespace WindowsFormsApp2
         public Form2()
         {
             InitializeComponent();
+
+        }
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void kryptonButton1_Click(object sender, EventArgs e)
+        {
+            
+            string pass = kryptonTextBox1.Text;
+            
+             
+            if (pass == "DAS AUTO")
+            {
+                this.Hide();
+
+                Form3 form3 = new Form3();
+
+                form3.Show();
+            }
+            else
+            {
+                MessageBox.Show("Password isn't true");
+            }
         }
     }
 }

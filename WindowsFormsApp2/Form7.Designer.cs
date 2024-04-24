@@ -319,6 +319,7 @@
             this.kryptonButton2.StateTracking.Border.Width = 1;
             this.kryptonButton2.TabIndex = 10;
             this.kryptonButton2.Values.Text = "Search";
+            this.kryptonButton2.Click += new System.EventHandler(this.kryptonButton2_Click);
             // 
             // kryptonButton6
             // 
@@ -379,6 +380,7 @@
             this.kryptonButton6.StateTracking.Border.Width = 1;
             this.kryptonButton6.TabIndex = 11;
             this.kryptonButton6.Values.Text = "Exit";
+            this.kryptonButton6.Click += new System.EventHandler(this.kryptonButton6_Click);
             // 
             // kryptonButton5
             // 

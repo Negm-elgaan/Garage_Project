@@ -114,6 +114,7 @@
             this.kryptonButton1.StateTracking.Border.Width = 1;
             this.kryptonButton1.TabIndex = 3;
             this.kryptonButton1.Values.Text = "Confirm";
+            this.kryptonButton1.Click += new System.EventHandler(this.kryptonButton1_Click);
             // 
             // pictureBox1
             // 
