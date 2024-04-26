@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using ComponentFactory.Krypton.Toolkit;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace WindowsFormsApp2
 {
@@ -17,7 +19,9 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
-
+        FileStream fs;
+        StreamReader sr;
+        StreamWriter sw;
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -28,25 +32,33 @@ namespace WindowsFormsApp2
 
         }
 
+
         private void kryptonButton1_Click(object sender, EventArgs e)
         {
             string ID = Logintext.Text;
 
-            if (ID == "267" || ID == "133" || ID == "493" || ID == "107" || ID == "222")
+            if (File.Exists("employee.txt"))
             {
-
-
-               this.Hide();
-
-                Form4 form4 = new Form4();
-               
-                form4.Show();
-
-                
-            }
-            else
-            {
-                MessageBox.Show("ID isn't true");
+                fs = new FileStream("employee.txt", FileMode.Open, FileAccess.Read);
+                sr = new StreamReader(fs);
+                fs.Seek(0, SeekOrigin.Begin);
+                string line;
+                string[] arr;
+                while ((line = sr.ReadLine()) != null)
+                {
+                    arr=line.Split('|');
+                   
+                    if (ID == arr[0])
+                    {
+                        MessageBox.Show(arr[1]);
+                        Form4 form4 = new Form4();
+                        form4.Show();
+                        this.Hide();
+                        return;
+                    }
+                }
+                MessageBox.Show("Wrong ID");
+                Logintext.Text = null;
             }
         }
 
@@ -57,6 +69,11 @@ namespace WindowsFormsApp2
             Form2 form2 = new Form2();
 
             form2.Show();
+        }
+
+        private void Logintext_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

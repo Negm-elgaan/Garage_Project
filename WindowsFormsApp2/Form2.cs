@@ -28,7 +28,7 @@ namespace WindowsFormsApp2
             string pass = kryptonTextBox1.Text;
             
              
-            if (pass == " AUTO")
+            if (pass == "DAS AUTO")
             {
                 this.Hide();
 
@@ -41,5 +41,7 @@ namespace WindowsFormsApp2
                 MessageBox.Show("Password isn't true");
             }
         }
+
+
     }
 }
