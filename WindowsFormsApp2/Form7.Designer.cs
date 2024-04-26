@@ -267,6 +267,7 @@
             this.kryptonButton4.StateTracking.Border.Width = 1;
             this.kryptonButton4.TabIndex = 9;
             this.kryptonButton4.Values.Text = "Delete";
+            this.kryptonButton4.Click += new System.EventHandler(this.kryptonButton4_Click);
             // 
             // kryptonButton2
             // 

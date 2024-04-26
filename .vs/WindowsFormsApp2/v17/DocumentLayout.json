@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\karim\\source\\repos\\Garage_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\karim\\source\\repos\\garage_project\\windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\karim\\source\\repos\\garage_project\\windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\karim\\source\\repos\\Garage_Project\\windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\karim\\source\\repos\\garage_project\\windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\karim\\source\\repos\\Garage_Project\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\karim\\source\\repos\\Garage_Project\\windowsformsapp2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,11 +23,7 @@
       "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\karim\\source\\repos\\Garage_Project\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\karim\\source\\repos\\garage_project\\windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\karim\\source\\repos\\Garage_Project\\windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,32 +66,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form7.cs",
               "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form7.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form7.cs",
-              "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form7.cs",
-              "RelativeToolTip": "WindowsFormsApp2\\Form7.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAWwBgAAAALAAAA",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form7.cs*",
+              "RelativeToolTip": "WindowsFormsApp2\\Form7.cs*",
+              "ViewState": "AQIAADgAAAAAAAAAAAArwEYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T17:19:16.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form7.cs [Design]",
               "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form7.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form7.cs",
-              "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form7.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\Form7.cs [Design]",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form7.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp2\\Form7.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T17:19:06.519Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form3.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form3.cs",
@@ -99,21 +99,19 @@
               "RelativeToolTip": "WindowsFormsApp2\\Form3.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAxwB4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:15:08.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T14:15:08.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
               "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAkwDcAAAAkAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:06:11.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T14:06:11.899Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form2.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T23:15:18.068Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-24T23:15:18.068Z"
             },
             {
               "$type": "Document",
@@ -137,20 +134,18 @@
               "RelativeToolTip": "WindowsFormsApp2\\Form2.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwCAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:13:24.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T14:13:24.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form6.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form6.cs",
               "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form6.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:03:42.263Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-26T14:03:42.263Z"
             },
             {
               "$type": "Document",
@@ -161,8 +156,7 @@
               "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T23:15:08.602Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-24T23:15:08.602Z"
             },
             {
               "$type": "Document",
@@ -173,8 +167,7 @@
               "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form3.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:03:36.732Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-26T14:03:36.732Z"
             },
             {
               "$type": "Document",
