@@ -28,7 +28,7 @@ namespace WindowsFormsApp2
             string pass = kryptonTextBox1.Text;
             
              
-            if (pass == "DAS AUTO")
+            if (pass == "AS AUTO")
             {
                 this.Hide();
 
