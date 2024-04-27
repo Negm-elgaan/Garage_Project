@@ -86,5 +86,12 @@ namespace WindowsFormsApp2
             MessageBox.Show("Not Found");
             Clear ();
         }
+
+        private void kryptonButton3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form1 form = new Form1();
+            form.Show();
+        }
     }
 }

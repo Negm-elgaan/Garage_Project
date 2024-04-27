@@ -1,46 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\omarh\\Garage_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\windowsformsapp2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\windowsformsapp2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\05594\\documents\\github\\garage_project\\windowsformsapp2\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\windowsformsapp2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\windowsformsapp2\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\omarh\\garage_project\\windowsformsapp2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\omarh\\garage_project\\windowsformsapp2\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\omarh\\Garage_Project\\windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31DEFD-13B2-4A5B-9F32-E7D65417A5EB}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,64 +70,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form5.cs",
-              "DocumentMoniker": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form5.cs",
+              "DocumentIndex": 5,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form4.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form4.Designer.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAApwOwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:02:48.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form5.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form5.cs",
-              "ToolTip": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form5.cs",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form5.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T22:03:40.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form7.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form7.cs",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form7.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form7.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAlwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:48:22.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form4.cs",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form4.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form4.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAhwCkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:46:24.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form6.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form6.cs",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form6.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form6.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAhwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:45:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form5.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form5.cs",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form5.cs",
               "RelativeToolTip": "WindowsFormsApp2\\Form5.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAANAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAlwGIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T08:52:59.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form2.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form2.cs",
-              "ToolTip": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form2.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T23:15:18.068Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-24T23:15:18.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form2.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form2.cs",
-              "ToolTip": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form2.cs",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form2.cs",
               "RelativeToolTip": "WindowsFormsApp2\\Form2.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCAAAAAcAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAApwCoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:13:24.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T14:13:24.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Form6.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form6.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form6.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form6.cs",
-              "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form6.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form6.cs [Design]",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form6.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T14:03:42.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
-              "ToolTip": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T23:15:08.602Z",
@@ -115,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form3.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form3.cs",
-              "ToolTip": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form3.cs [Design]",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form3.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T14:03:36.732Z",
@@ -127,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form4.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form4.cs",
-              "ToolTip": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form4.cs [Design]",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form4.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T14:03:38.395Z",
@@ -139,38 +219,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
-              "ToolTip": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAkwEsAAAAAAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswDEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T14:06:11.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form3.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form3.cs",
-              "ToolTip": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form3.cs",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form3.cs",
               "RelativeToolTip": "WindowsFormsApp2\\Form3.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwB4AAAALAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAApwCwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:15:08.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T14:15:08.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Form7.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\05594\\Documents\\GitHub\\Garage_Project\\WindowsFormsApp2\\Form7.cs",
+              "DocumentMoniker": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form7.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form7.cs",
-              "ToolTip": "C:\\Users\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form7.cs [Design]*",
-              "RelativeToolTip": "..\\..\\..\\..\\karim\\source\\repos\\Garage_Project\\WindowsFormsApp2\\Form7.cs [Design]*",
+              "ToolTip": "C:\\Users\\omarh\\Garage_Project\\WindowsFormsApp2\\Form7.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form7.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T08:52:19.963Z"
             }

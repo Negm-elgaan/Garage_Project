@@ -34,5 +34,12 @@ namespace WindowsFormsApp2
 
             form7.Show();
         }
+
+        private void kryptonButton3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form1 form = new Form1();
+            form.Show();
+        }
     }
 }
