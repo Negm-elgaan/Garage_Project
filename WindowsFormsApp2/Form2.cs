@@ -41,7 +41,11 @@ namespace WindowsFormsApp2
                 MessageBox.Show("Password isn't true");
             }
         }
-
-
+        private void kryptonButton2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form1 form = new Form1();
+            form.Show();
+        }
     }
 }
