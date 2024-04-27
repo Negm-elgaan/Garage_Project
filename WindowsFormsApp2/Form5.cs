@@ -53,7 +53,7 @@ namespace WindowsFormsApp2
         {
             fs = new FileStream("Add_Car.txt", FileMode.Append, FileAccess.Write);
             sw = new StreamWriter(fs);
-            sw.WriteLine(kryptonTextBox1.Text + "|" + kryptonTextBox2.Text + "|" + kryptonTextBox3.Text );
+            sw.WriteLine(kryptonTextBox4.Text+"|"+kryptonTextBox1.Text + "|" + kryptonTextBox2.Text + "|" + kryptonTextBox3.Text );
             sw.Flush();
             MessageBox.Show("Done");
         }
@@ -71,14 +71,14 @@ namespace WindowsFormsApp2
             string[] arr;
             while ((line = sr.ReadLine()) != null)
             {
-                if (kryptonTextBox1.Text == "*")
+                if (kryptonTextBox4.Text == "*")
                 {
                     MessageBox.Show("Not Found");
                     Clear();
                     return;
                 }
                 arr = line.Split('|');
-                if (arr[0] == kryptonTextBox1.Text)
+                if (arr[0] == kryptonTextBox4.Text)
                 {
                     fs.Seek(count, SeekOrigin.Begin);
                     sw.Write("*");
